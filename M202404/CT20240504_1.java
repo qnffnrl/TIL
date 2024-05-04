@@ -21,7 +21,7 @@ public class CT20240504_1 {
                 }
             }
 
-            if (st.isEmpty()) {
+        if (st.isEmpty()) {
                 System.out.println(0);
                 return;
             }
