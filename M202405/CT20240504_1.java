@@ -1,4 +1,4 @@
-package M202404;
+package M202405;
 
 import java.util.Scanner;
 import java.util.Stack;
